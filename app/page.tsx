@@ -305,9 +305,9 @@ export default function Home() {
       <Navbar />
 
       {/* ✅ Tailwind debug line */}
-      <div className="bg-red-500 text-white p-4 text-center">
+      {/* <div className="bg-red-500 text-white p-4 text-center">
         If you see a red background with white text, Tailwind colors are working!
-      </div>
+      </div> */}
 
       {/* Main content */}
       <main className="flex-1">
